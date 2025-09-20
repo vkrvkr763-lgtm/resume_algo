@@ -1,4 +1,4 @@
-**RESUME_ALGOMINDS
+*RESUME_ALGOMINDS
 #Resume Relevance Matcher
 An AI-powered tool to intelligently score, rank, and provide feedback on resumes against job descriptions, streamlining the recruitment process.
 
